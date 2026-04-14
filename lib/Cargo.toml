@@ -22,7 +22,7 @@ directories = { version = ">= 2, < 5", optional = true }
 html2md = { version = "0.2.14", optional = true }
 kuchikiki = { version = "0.8.2", optional = true }
 lol_html = { version = "1", optional = true }
-rand = { version = "0.8" }
+rand = { version = "0.10" }
 regex = "1"
 ring = "0.17.6"
 rio_api = { version = "0.8", optional = true }
